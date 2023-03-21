@@ -11,9 +11,6 @@ We will have 3 end-points:
 
 ## How to build
 1. First make sure to start your go package with <code>go mod init main</code><br>
-
 2. Now build an executable with <code>go build</code>
-
 3. Finally, run the executable with <code>go run main.go</code>
-
 4. You can now test the application on http://localhost:8008
